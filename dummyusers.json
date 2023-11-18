@@ -1,0 +1,31 @@
+[
+    {
+      "username": "john_doe",
+      "password": "monkeyshateme",
+      "isAdmin": true,
+      "isDisabled": false,
+      "posts": []
+    },
+    {
+      "username": "jane_doe",
+      "password": "ihaveacatnamedoscar",
+      "isAdmin": false,
+      "isDisabled": false,
+      "posts": []
+    },
+    {
+      "username": "bob_smith",
+      "password": "peoplerarelyuserpasswordgens",
+      "isAdmin": true,
+      "isDisabled": false,
+      "posts": []
+    },
+    {
+      "username": "alice_johnson",
+      "password": "h4cker1sr43L",
+      "isAdmin": false,
+      "isDisabled": false,
+      "posts": []
+    }
+  ]
+  
