@@ -5,7 +5,9 @@ const fileuploader = require('express-fileupload');
 const routes = require('./routes')
 const port = 3000;
 const app = express();
+const cors = require('cors');
 
+app.use(cors());
 app.use(bodyparser.json());
 app.use(fileuploader());
 
